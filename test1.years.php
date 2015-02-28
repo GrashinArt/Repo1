@@ -23,7 +23,6 @@ for ($age=0; $age<125; $age++){
    // case 3: $wordYear = "года"; break;
    // case 4: $wordYear = "года"; break;
    // default : $wordYear = "лет"; break;
-    }
-
+   // }
 }
 ?>
