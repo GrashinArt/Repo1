@@ -35,8 +35,5 @@ for($i=0; $i<$myArraySize; $i++){
 
 echo "<br> Max Length of positive sequence: " . $maxSize . "<br>";
 print_r($maxSequence);
-<<<<<<< HEAD
+
 ?>
-=======
-?>
->>>>>>> 802796d4bed827ec49b5d7c19f5080e979bce578
