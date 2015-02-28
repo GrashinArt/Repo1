@@ -1,5 +1,6 @@
 <?php
 for ($age=0; $age<125; $age++){
+<<<<<<< HEAD
     $lastNumb=$age%100;
     if($lastNumb>=10 and $lastNumb<=20){
         $wordYear = "лет";
